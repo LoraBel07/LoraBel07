@@ -44,7 +44,7 @@
 <img alt="#" src="https://img.shields.io/badge/Microsoft_SQL_Server-lightgray?style=flat&logo=microsoft-sql-server&logoColor=white"/>   
 </p>
 
-/-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoraBel07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) --/
+// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoraBel07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <h2> 📺  Short video of my projects:  </h2>
