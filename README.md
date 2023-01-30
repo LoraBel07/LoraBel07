@@ -41,7 +41,7 @@
 <img alt="#" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
 <img alt="#" src="https://img.shields.io/badge/Microsoft_Access-fuchsia?style=flat&logo=microsoft-access&logoColor=white"/> 
 <img alt="#" src="https://img.shields.io/badge/Microsoft_PowerPoint-orangered?style=flat&logo=microsoft-powerpoint&logoColor=white"/>
-<img alt="#" src="https://img.shields.io/badge/Microsoft_SQL-lightgray?style=flat&logo=microsoft-sql&logoColor=white"/>   
+<img alt="#" src="https://img.shields.io/badge/Microsoft_SQL_Server-lightgray?style=flat&logo=microsoft-sql_server&logoColor=white"/>   
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoraBel07&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
