@@ -60,4 +60,4 @@
 <a href='https://clustrmaps.com/site/1bmc6'  target="_blank" title='Visit tracker'><img src="https://clustrmaps.com/map_v2.png?cl=f9d7f8&w=280&t=n&d=3k4kDWWaS0sSNIndK4gpjHAfA0bTFzIhurNy9130R4I&co=0c0c5c&ct=ffffff" /></a>
 
 <section align="left">
-  <img src="https://komarev.com/ghpvc/?username=LoraBel07&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=LoraBel07&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
